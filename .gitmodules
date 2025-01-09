@@ -1,0 +1,3 @@
+[submodule "sentry/sentry-nodestore-s3"]
+	path = sentry/sentry-nodestore-s3
+	url = https://github.com/xprotocol-bot/sentry-nodestore-s3.git
